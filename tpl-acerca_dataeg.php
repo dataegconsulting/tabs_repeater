@@ -1,10 +1,3 @@
-<?php /* Template Name: ACERCA DE DATA EG */ ?>
-<?php get_header(); ?>
-
-
-<!-- Page Banner -->
-<?php get_template_part( 'vc_templates/pagebanner' ); ?>
-<!-- Page Banner -->
  
  
 <!-- Why Choose Section -->
@@ -71,6 +64,7 @@
 <!-- Why Choose Section -->
 
 
+ 
 <?php
 
 // *Repeater
@@ -124,4 +118,4 @@ else :
 
 endif;?>
 
-<?php get_footer(); ?>
+ 
